@@ -1,4 +1,3 @@
-
 # 🎨 pixora-frontend
 
 ## Pixora — Decentralized Design Marketplace on StarkNet
@@ -13,24 +12,24 @@ Designed for both efficiency and fairness, Pixora fosters an ecosystem where cre
 
 ## 🚀 Key Features
 
-- 💸 **Zero-Fee Transactions** — Only minimal StarkNet gas fees apply  
-- 🔐 **Secure Smart Contract Escrow** — Milestone-based payments to protect both parties  
-- 🕓 **On-Chain IP Protection** — One-click media timestamping for intellectual property security  
-- ⚡ **Instant STRK Token Payments** — Fast and seamless financial transactions  
-- 🌟 **Top Designers Spotlight** — Showcase elite talent based on community recognition  
-- 🏆 **Monthly Reward System** — Bonus STRK tokens for top-performing designers  
-- 💰 **Integrated Tipping** — Clients can reward exceptional work directly  
-- 🧾 **On-Chain Reputation System** — Immutable and verifiable professional credentials  
+- 💸 **Zero-Fee Transactions** — Only minimal StarkNet gas fees apply
+- 🔐 **Secure Smart Contract Escrow** — Milestone-based payments to protect both parties
+- 🕓 **On-Chain IP Protection** — One-click media timestamping for intellectual property security
+- ⚡ **Instant STRK Token Payments** — Fast and seamless financial transactions
+- 🌟 **Top Designers Spotlight** — Showcase elite talent based on community recognition
+- 🏆 **Monthly Reward System** — Bonus STRK tokens for top-performing designers
+- 💰 **Integrated Tipping** — Clients can reward exceptional work directly
+- 🧾 **On-Chain Reputation System** — Immutable and verifiable professional credentials
 
 ---
 
 ## 🛠️ Technical Stack
 
-- **Layer 2 Blockchain**: StarkNet  
-- **Smart Contracts**: Cairo  
-- **Frontend**: Next.js + TailwindCSS  
-- **Storage**: IPFS for decentralized media and metadata  
-- **Payments**: STRK tokens + smart contract-based escrow  
+- **Layer 2 Blockchain**: StarkNet
+- **Smart Contracts**: Cairo
+- **Frontend**: Next.js + TailwindCSS
+- **Storage**: IPFS for decentralized media and metadata
+- **Payments**: STRK tokens + smart contract-based escrow
 
 ---
 
@@ -59,8 +58,8 @@ git checkout -b feat-your-feature
 
 ### 4️⃣ Make changes and commit
 
-
 Examples:
+
 ```bash
 git commit -m "feat: add feature to escrow contract"
 git commit -m "feat: enable NFT minting for artwork uploads"
@@ -81,21 +80,22 @@ git push origin feat-your-feature
 
 ## 🔀 Branch Naming Convention
 
-- `feat/feature-name` — New features  
-- `fix/bug-description` — Bug fixes  
-- `chore/task-name` — Maintenance or refactoring  
-- `docs/update-description` — Documentation updates  
+- `feat/feature-name` — New features
+- `fix/bug-description` — Bug fixes
+- `chore/task-name` — Maintenance or refactoring
+- `docs/update-description` — Documentation updates
 
 ---
 
 ## 📝 Commit Message Guidelines
 
-- `feat: integrate IP timestamping`  
-- `fix: correct milestone payout bug`  
-- `chore: remove console logs`  
-- `docs: add usage instructions for tipping feature`  
+- `feat: integrate IP timestamping`
+- `fix: correct milestone payout bug`
+- `chore: remove console logs`
+- `docs: add usage instructions for tipping feature`
 
 ---
+
 ## 💡 Tips for a Smooth PR
 
 - Check for open issues to avoid duplication.
@@ -108,6 +108,7 @@ git push origin feat-your-feature
 Pixora is more than just a marketplace — it’s a movement to empower creators, preserve originality, and reshape how collaboration happens in design. Whether you’re a developer, designer, or enthusiast — this is your space.
 
 ✨ Fork the repo, build, and help shape the future of decentralized creative work.
+
 ```
 
 Let me know if you want a version that also includes badges, project screenshots, or links to live demos and contracts!
@@ -115,3 +116,4 @@ Let me know if you want a version that also includes badges, project screenshots
 
 
 
+```

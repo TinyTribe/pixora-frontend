@@ -110,7 +110,6 @@ Pixora is more than just a marketplace — it’s a movement to empower creators
 ✨ Fork the repo, build, and help shape the future of decentralized creative work.
 ```
 
-Let me know if you want a version that also includes badges, project screenshots, or links to live demos and contracts!
 
 
 
